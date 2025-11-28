@@ -121,5 +121,5 @@ sequenceDiagram
 
 ## 🧑‍💻 Author  
 
-**Vellure Lohith** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
+**Satwik Yadav** — B.Tech CSE Student | Aspiring SDE (Java) | Cloud & AWS Enthusiast  
 
